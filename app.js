@@ -16,3 +16,7 @@ Vue.component('post',{
 new Vue({
     el:"#vue-app"
 })
+
+var test = new Vue({
+    el:"#vue-app2"
+})
